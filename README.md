@@ -1,6 +1,7 @@
 <!---
 {
   "id": "00650b50-14de-471d-a347-246f47ffadde",
+  "teaches": "Compiling Your First LaTeX Document",
   "depends_on": ["2c7334b3-b07d-48d6-a562-79072d8e166e"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-15",
